@@ -9,4 +9,7 @@ I then log in as a agent and I assess the problem/ticket.
 
 ![Screenshot 2025-05-29 103155](https://github.com/user-attachments/assets/260ce5ff-e1ad-484b-ae08-ef82834012ba)
 
-John Doe being taking the role as the agent and Karen as the end user.
+John Doe being the role as the agent (Normal Support) and Karen as the end user.
+
+Then Jane Doe another agent I created sees the problem and assess the issue because Jane is assigned as (SysAdmin).
+![Screenshot 2025-05-29 105425](https://github.com/user-attachments/assets/f9f5aa87-1b73-4a63-9b39-a4b73814443c)
