@@ -5,11 +5,14 @@ On a Virtual Machine from Azure I installed a program named osTicket this is use
 
 The picture above is using an end user account that I created that is going to send in a ticket.
 
-I then log in as a agent and I assess the problem/ticket.
+I then log in as Agent John and I assess the problem/ticket by assigning it to the appropriate SLA I created earlier, since the problem seems to be a Large Scale problem I assign it to the one with the fastest respond time.
 
-![Screenshot 2025-05-29 103155](https://github.com/user-attachments/assets/260ce5ff-e1ad-484b-ae08-ef82834012ba)
+Next I assign it to the appropriate team since the ticket has to do with online banking portal not working I simply assign it to the Online Banking Team this is shown in the picture below
 
-John Doe being the role as the agent (Normal Support) and Karen as the end user.
+![Screenshot 2025-06-03 164652](https://github.com/user-attachments/assets/804102ad-4cf8-44a5-a1b1-7f7af57a9fdf)
 
-Then Jane Doe another agent I created sees the problem and assess the issue because Jane is assigned as (SysAdmin).
-![Screenshot 2025-05-29 105425](https://github.com/user-attachments/assets/f9f5aa87-1b73-4a63-9b39-a4b73814443c)
+Next I login as Jane the SysAdmin Agent and work the ticket to completion.
+
+I as Jane send in two replys on the osTicket System then I assign the priority as emergency and the status of the ticket as resolved.
+
+Now the Ticket is officialy closed and worked to completion.
