@@ -15,4 +15,6 @@ Next, I log in as Jane the SysAdmin Agent and work the ticket to completion.
 
 As Jane, send in two replies on the osTicket System, then I will assign the priority as emergency and the status of the ticket as resolved.
 
+![Screenshot 2025-06-03 165812](https://github.com/user-attachments/assets/88c8c907-71c0-4350-a1dd-c298b024cb3c)
+
 Now the Ticket is officially closed and has been worked to completion.
